@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...my email : danielainoko402@gmail.com
+- 📫 How to reach me ...my email : worksdaniel50@gmail.com
 
 <!---
 Danproking0/Danproking0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
